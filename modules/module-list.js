@@ -7,4 +7,5 @@
     //-------------------------------------------------------------------------------------
     m[p+"information-system"]     ={url:H+"/business/information-system/page.html",prefix:p,router:1};
     m[p+"printer"]                ={url:H+"/business/printer/page.html",prefix:p,router:1};
+    m[p+"snapforms-server"]       ={url:H+"/business/snapforms-server/page.html",prefix:p,router:1};
 })();
